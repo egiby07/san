@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "산업안전보건 관리 안내 자료",
+  "short_name": "산업안전 안내",
+  "description": "산업안전보건 관리 안내 및 벌칙·과태료 기준",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1595c6",
+  "theme_color": "#1595c6",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
